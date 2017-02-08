@@ -19,9 +19,15 @@
    * [Механічний рух](1/mekhanichniy_rukh.md)   
    * [Взаємодія тіл. Сила](1/vzaemodiya_til_syla.md)   
    * [Механічна робота та енергія](1/mekhanichna_robota_ta_energiya.md)   
+
+### 8 Клас
+
 * [8 клас](2/8_klas.md)
    * [Теплові явища](2/teplovi_yavischa.md)
    * [Електричні явища. Електричний струм](2/elektrychni_yavischa.md)
+
+### 9 Клас
+
 * [9 клас](3/9_klas.md)
    * [Магнітні явища](3/magnitni_yavischa.md)
    * [Світлові явища](3/svitlovi_yavischa.md)
