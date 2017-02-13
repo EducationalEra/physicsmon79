@@ -9,12 +9,12 @@
 <hr>
 <p><b>Зміст розділу:</b></p>
 <ul type="disc">
-<li><a href="https://physicsmonprogram79.ed-era.com/3/magnitni_yavischa.html">Магнітні явища</a></li>
-<li><a href="https://physicsmonprogram79.ed-era.com/3/svitlovi_yavischa.html">Світлові явища</a></li>
-<li><a href="https://physicsmonprogram79.ed-era.com/3/mekhanichni_ta_elektromagnitni_khvyli.html">Механічні та електромагнітні хвилі</a></li>
-<li><a href="https://physicsmonprogram79.ed-era.com/3/fizika_atoma_ta_atomogo_yadra.html">Фізика атома та атомного ядра. Фізичні основи атомної енергетики</a></li>
-<li><a href="https://physicsmonprogram79.ed-era.com/3/rukh_ta_vzaemodiya.html">Рух і взаємодія. Закони збереження</a></li>
-<li><a href="https://physicsmonprogram79.ed-era.com/3/fizika_ta_ekologiya.html">Фізика та екологія</a></li>
+<li><a href="https://spanishmondeep.ed-era.com/3/magnitni_yavischa.html">Магнітні явища</a></li>
+<li><a href="https://spanishmondeep.ed-era.com/3/svitlovi_yavischa.html">Світлові явища</a></li>
+<li><a href="https://spanishmondeep.ed-era.com/3/mekhanichni_ta_elektromagnitni_khvyli.html">Механічні та електромагнітні хвилі</a></li>
+<li><a href="https://spanishmondeep.ed-era.com/3/fizika_atoma_ta_atomogo_yadra.html">Фізика атома та атомного ядра. Фізичні основи атомної енергетики</a></li>
+<li><a href="https://spanishmondeep.ed-era.com/3/rukh_ta_vzaemodiya.html">Рух і взаємодія. Закони збереження</a></li>
+<li><a href="https://spanishmondeep.ed-era.com/3/fizika_ta_ekologiya.html">Фізика та екологія</a></li>
 </ul>
 
 <div class="js-hypercomments-container">
