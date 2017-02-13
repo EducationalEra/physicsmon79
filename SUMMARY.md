@@ -1,6 +1,7 @@
 ### Вступ
 
 * [Вступна частина](README.md)
+* [Правила внесення пропозицій та алгоритм обговорення](pravyla.md)
 * [Зміст програми](zmist.md)
 * [Пояснювальна записка](poyasnuvalna_zapyska.md)
    * [Системотворчі елементи шкільного курсу фізики](systemotvorchi_elementy_shkilnogo_kursu_phyzyki.md)
